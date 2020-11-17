@@ -11,7 +11,7 @@ Also, main colors were inspired by Princess Bubblegum color palette:
 
 ### Preview
 
-![image](https://freeimage.host/i/screen-shot-2020-11-17-023103.FAhxwX)
+![image](https://iili.io/FAhxwX.png)
 
 
 ### For more information
