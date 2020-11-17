@@ -1,0 +1,26 @@
+{
+    "name": "dark",
+    "displayName": "Kawaii Gummy",
+    "icon": "https://www.linkpicture.com/q/oie_176246zrSIGTyE.jpg",
+    "galleryBanner": {
+    "color": "#ff67cc",
+    "theme": "dark",
+    },
+    "description": "A theme based on Fluff-dark-theme, by @ayako02, with a touch of princess BubbleGum, to fit better to Elixir ",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Kawaii Gummy",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Kawaii Gummy-color-theme.json"
+            }
+        ]
+     }
+}
