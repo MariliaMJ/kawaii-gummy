@@ -716,7 +716,9 @@
 		{
 			"scope": [
 				"keyword.other.special-method",
-				"keyword.operator.other.elixir"
+				"keyword.operator.other.elixir",
+				"keyword.operator.sigils_1.elixir",
+				"keyword.control.elixir"
 			],
 			"settings": {
 				"foreground": "#FFC430"
