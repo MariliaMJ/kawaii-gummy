@@ -23,5 +23,10 @@
             }
         ]
      },
-     "publisher": "mariliamorais"
+     "publisher": "mariliamorais",
+     "repository": {
+        "type": "git",
+        "url": "https://github.com/MariliaMJ/kawaii-gummy"
+      },
+      "homepage": "https://github.com/MariliaMJ/kawaii-gummy/blob/master/README.md"
 }
