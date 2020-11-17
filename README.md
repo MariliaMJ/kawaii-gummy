@@ -1,5 +1,5 @@
 # README
- ![image](./images/kawaii_gummy.jpg)
+ ![image](https://www.linkpicture.com/q/kawaii_gummy.jpg)
 
  This theme is totally made upon 
 [fluff-dark-theme](https://github.com/ayako02/fluff-dark-theme), however it has some adjustments to fit better into **Elixir**. I use [ElixirLS linter](https://marketplace.visualstudio.com/items?itemName=JakeBecker.elixir-ls).
